@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = [ "Java", "Script", "JavaScript"];
+var titleText = [ "JS", "is", "great"];
 
 function loop() {
 
